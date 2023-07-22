@@ -15,6 +15,8 @@ python main.py
 Follow the instructions provided by the program to select the number of Discord Nitro codes you want to generate.
 The program will automatically create the Nitro codes and save them in the nitro.txt file.
 
+PD: Before running the Discord Nitro Generator, make sure to configure the webhook where you will receive the generated codes that do work.
+
 # Contribution
 If you wish to contribute to this project, you are welcome to do so. You can report issues, propose improvements, or submit pull requests.
 
