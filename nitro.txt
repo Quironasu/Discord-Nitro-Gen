@@ -1,3 +1,6 @@
+# It is an example of how they will look
+Remember to put your webhook so that the codes that do work are sent to your Webhook, all the codes will come to nitro.txt but the ones that work will go to the Webhook you provided since this Discord Nitro Gen, unlike many, has a Checker that will check the nitros if they are functional, so it can be a little slower than normal
+
 https://discord.gift/32LrUnuoZtt0xCPR
 https://discord.gift/LYUhyeqZQ0A7cNZJ
 https://discord.gift/98eSc6Ykzc5Fgcba
