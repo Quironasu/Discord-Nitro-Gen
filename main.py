@@ -48,4 +48,4 @@ try:
         time.sleep(0.02) 
 
 except KeyboardInterrupt:
-    print("\nGeneración de códigos detenida.")
+    print("\nCode generation stopped.")
