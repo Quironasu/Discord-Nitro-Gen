@@ -24,6 +24,4 @@ If you wish to contribute to this project, you are welcome to do so. You can rep
 This project is licensed under the MIT License. See the LICENSE.md file for more information.
 
 # Contact
-https://discord.gg/gccqA5gH
-Discord: crarox or quironasu
-If you want help send me a request to: quironasu
+Discord: quironasu | If you want help send me a request
