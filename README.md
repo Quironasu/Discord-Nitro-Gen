@@ -6,8 +6,8 @@ Clone this repository to your local machine using the following command in the t
 git clone https://github.com/quironasu/Discord-Nitro-Gen.git
 Navigate to the project directory:
 cd Discord-Nitro-Gen
-Install the necessary dependencies using npm:
-npm install
+Install the necessary dependencies using:
+pip install -r requirements.txt
 
 # Usage
 Run the program with the following command:
